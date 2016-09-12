@@ -1,0 +1,2 @@
+# BTCbot
+Bitcoin Bot
